@@ -1,0 +1,8 @@
+public enum Genero {
+    NOVELA, CIENCIA_FICCION, HISTORIA, FANTASIA, MISTERIO, INFANTIL, POESIA, OTRO
+}
+
+public enum EstadoLibro {
+    DISPONIBLE, PRESTADO, RESERVADO
+}
+
