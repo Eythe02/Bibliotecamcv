@@ -1,8 +1,8 @@
-import controlador.GestorBiblioteca;
-import modelo.Libro;
-import modelo.Usuario;
-import modelo.Genero;
-import vista.Consola;
+import Controlador.GestorBiblioteca;
+import Modelo.Libro;
+import Modelo.Usuario;
+import Modelo.Genero;
+import Vista.Consola;
 
 public class Main {
     public static void main(String[] args) {
