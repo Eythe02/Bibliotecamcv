@@ -3,4 +3,3 @@ package Modelo;
 public enum EstadoLibro {
     DISPONIBLE, PRESTADO, RESERVADO
 }
-

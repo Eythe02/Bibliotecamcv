@@ -1,3 +1,5 @@
+package Vista;
+
 import java.util.List;
 
 public class Consola {

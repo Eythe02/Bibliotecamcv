@@ -1,3 +1,9 @@
+import controlador.GestorBiblioteca;
+import modelo.Libro;
+import modelo.Usuario;
+import modelo.Genero;
+import vista.Consola;
+
 public class Main {
     public static void main(String[] args) {
         GestorBiblioteca gestor = new GestorBiblioteca();
@@ -23,3 +29,4 @@ public class Main {
         gestor.mostrarLibros();
         gestor.mostrarUsuarios();
     }
+}
